@@ -11,7 +11,6 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- (Optional: Add frameworks/libraries like Bootstrap, GSAP, Three.js, etc.)
 
 ## 📂 Project Structure
 
