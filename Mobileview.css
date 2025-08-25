@@ -1,0 +1,122 @@
+@media (max-width:450px) {
+
+
+
+    .about,
+    .contact,
+    .projects {
+        width: 100vw;
+        height: 100vh;
+        flex-wrap: wrap;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+    .center{
+        height: 50%;
+        border:  5px solid green;
+    }
+    .about>.right{
+        border:  5px solid orange;
+    }
+    .about>.left{
+        border:  5px solid red;
+        gap:30%;
+    }
+
+    #section{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 100%;
+        border: 2px solid beige;
+    }
+    .section1{
+        font-size: 10px;
+    }
+    .section1>h1{
+        font-size: 10px;
+        font-style: italic;
+    }
+    .section2{
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        flex-direction: row;
+        border: 1px solid ;
+    }
+    .section2>p{
+        font-size: 1px;
+    }
+
+    .section{
+        font-size: 10px;
+    }
+
+    
+    
+
+    .home {
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /* border: 5px solid rebeccapurple; */
+    }
+
+    .home .left {
+        margin-top: 120px;
+        width: 100%;
+        height: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home>.right {
+        width: 100%;
+        display: flex;
+        align-items: normal;
+        padding-top:20%;
+        justify-content: center;
+    }
+
+    .right>button {
+        margin: 10px;
+    }
+
+    .home>.left p {
+        font-size: large;
+
+    }
+    .Prcont {
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+    }
+
+    nav {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 10px;
+        position: fixed;
+    }
+
+    nav ul {
+        width: 100%;
+    }
+    .contact{
+        width: 100vw;
+        border: 5px solid blue;
+    }
+    .contact>.sect{
+        width: 100%;
+        
+    }
+
+    .sect>.content{
+        width: 100%;
+    }
+    
+}
