@@ -12,5 +12,4 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - **CSS3**
 - **JavaScript**
 
-## 📂 Project Structure
 
