@@ -15,7 +15,8 @@
         height: 50%;
     }
     .about>.right{
-        /* border:  5px solid orange; */
+        border:  none;
+
     }
     .about>.left{
         /* border:  5px solid red; */
