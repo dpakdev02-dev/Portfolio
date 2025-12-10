@@ -13,13 +13,12 @@
     }
     .center{
         height: 50%;
-        border:  5px solid green;
     }
     .about>.right{
-        border:  5px solid orange;
+        /* border:  5px solid orange; */
     }
     .about>.left{
-        border:  5px solid red;
+        /* border:  5px solid red; */
         gap:30%;
     }
 
@@ -28,7 +27,7 @@
         flex-direction: column;
         flex-wrap: wrap;
         width: 100%;
-        border: 2px solid beige;
+        /* border: 2px solid beige; */
     }
     .section1{
         font-size: 10px;
@@ -108,7 +107,7 @@
     }
     .contact{
         width: 100vw;
-        border: 5px solid blue;
+        /* border: 5px solid blue; */
     }
     .contact>.sect{
         width: 100%;
